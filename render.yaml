@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: hair-top
+    runtime: static
+    staticPublishPath: .
+    buildCommand: ""
